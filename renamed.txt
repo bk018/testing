@@ -1,0 +1,8 @@
+#bin bash!!
+ 
+ This test is all about devops tools
+ 1.GIT
+ 2.Linux
+ 3.Terraform
+ 4.sonarqube
+ 
