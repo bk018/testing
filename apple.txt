@@ -5,4 +5,8 @@ dog
 egg
 fish
 giraffe
+hen
+ice
+jungle
+
 
