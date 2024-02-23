@@ -2,4 +2,7 @@ apple
 ball
 cat
 dog
+egg
+fish
+giraffe
 
